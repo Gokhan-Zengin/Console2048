@@ -1,3 +1,5 @@
 # Console2048
 
-hi, thats project files of my Console2048 game you can get game from : https://proofstr1ker.itch.io/console-2048
+My Second Console Game 
+
+You can download game from : https://proofstr1ker.itch.io/console-2048
