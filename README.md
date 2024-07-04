@@ -1,5 +1,4 @@
 # Console2048
 
-My Second Console Game 
-
-You can download game from : https://proofstr1ker.itch.io/console-2048
+Console game of 2048
+You can download game from : [https://goknn.itch.io/console-2048](https://goknn.itch.io/console-2048)
